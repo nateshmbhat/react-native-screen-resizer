@@ -1280,10 +1280,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hookstate/core@^4.0.0-rc9":
-  version "4.0.0-rc9"
-  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-4.0.0-rc9.tgz#ea54b628b6bb131bd4afdd081e3783c53f6eab70"
-  integrity sha512-rec76biQHh9F7oEwGRlLXkFRbVVEyvdOHh9LdKLyiIfCjnicBM+SX8s0n/26ACm7CW9NhGOTFj8nGaZJjMEJvg==
+"@hookstate/core@3.0.13":
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-3.0.13.tgz#827c92166399cd4ae227d3c7ae76445e388ce3e8"
+  integrity sha512-dzx6Rz1M5/c/F1zPEspnONMUvkJD1BzepuuGkqoh+KDNhgWrklGW9OVQAuK+DZFyamCTb3/1GW2Vu4IDhXMexA==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"

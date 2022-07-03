@@ -145,6 +145,6 @@
     ]
   },
   "dependencies": {
-    "@hookstate/core": "^4.0.0-rc9"
+    "@hookstate/core": "3.0.13"
   }
 }

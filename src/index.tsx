@@ -1,3 +1,4 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+import type { RNScreenResizer } from './RNScreenResizer';
+import type { ScreenSizeUtil, useScreenSize } from './useScreenSize';
+
+export { useScreenSize, RNScreenResizer, ScreenSizeUtil };
